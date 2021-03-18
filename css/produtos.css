@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+
+  }
+
+body{
+    margin: 0;
+    background-image: linear-gradient(white 53%, #733a9b73);
+
+}
+
+
+#conteudo{
+    height: 100%;
+    width: 100%;
+}
+.logo{
+   
+    margin-top: 26px;
+
+}
+
+.menu{
+    width: 49%;
+    float: left;
+
+}
+
+
+
+#imagem{
+    width: 8%;
+    float: left;
+    margin-left: 51px;
+}
+
+li{
+    float: right;
+    list-style: none;
+    padding-top: 73px;
+    margin-left: 4px;
+    padding-left: 20px;
+    
+  
+}
+
+
+
+.itens-menu{
+ 
+    font-family: sans-serif;
+    font-size: 19px;
+    padding-left: 38px;    
+}
+
+#menu{
+    background-color: #dbcce5;
+    width: 100%;
+    height: 112px;
+    text-decoration: none;
+
+}
+
+
+
+ul{
+    height: 26px;
+    font-weight: 600 !important;
+    text-decoration: none;
+}
+
+ul li a:hover{
+  color: #ae62e0;
+  text-decoration: none;
+}
+
+
+
+.itens-menu a{
+    text-decoration: none;
+    color: rgb(63, 59, 59);
+}
+
+#divBusca{
+    background-color: #e0eeeead;
+    border-radius: 10px;
+    float: right;
+    margin-top: 52px;
+    margin-right: 14px;
+
+}
+
+#txtBusca{
+    
+    float: left;
+background-color: transparent;
+padding-left: 5px;
+font-size: 14px;
+border: none;
+height: 32px;
+width: 208px;
+outline: none;
+
+}
+
+
+
+#btnBusca{
+    border: none;
+    float: left;
+    height: 36px;
+    border-radius: 0 7px 7px 0;
+    width: 76px;
+    font-weight: bold;
+    background: #ae62e0;
+}
+
+
+#divBusca img{
+
+    float: left;
+padding-top: 4px;
+width: 32px;
+}
+
+
+footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#rodape{
+    height: 96px;
+    background-color: rgb(143 111 167);
+}
+
+
+.texto {
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+  }
+  
+  .fab {
+    color: #551a8b;
+    font-size: 1.4em;
+    padding: 7px;
+    margin-top: 15px;
+  }
+  
+
+
+h1{
+    width: 100%;
+    text-align: center;
+    margin-top: 38px;
+    margin-bottom: 34px;
+    color: #9316a7bd;
+}
+
+h2{
+    color: #9316a7bd;
+    text-align: center;
+    padding-top: 28px;
+}
+
+.textao{
+    width: 93%;
+    margin-left: 28px;
+    text-align: center;
+    padding: 23px;
+    margin-top: 14px;
+
+}
+.textao2{
+    width: 93%;
+    text-align: center;
+    padding: 23px;
+
+}
+
+.textao3{
+    width: 93%;
+    text-align: center;
+    padding: 23px;
+
+}
+.textao4{
+    width: 93%;
+    text-align: center;
+    padding: 23px;
+
+}
+
+.imagens{
+    width: 30%;
+}
+
+.analy1{
+    width: 45%;
+    margin-left: 20px;
+    height: 228px;
+    float: left;
+    background-color: #dbcce56e;
+    border-radius: 45px 41px;
+
+}
+.analy2{
+    width: 45%;
+    float: right;
+    margin-right: 20px;
+    height: 228px;
+    background-color: #dbcce56e;
+    border-radius: 45px 41px;
+}
+.analy3{
+    width: 44%;
+    height: 228px;
+    background-color: #dbcce56e;
+    border-radius: 45px 41px;
+}
+.analy4{
+    width: 44%;
+    height: 228px;
+    background-color: #dbcce56e;
+    border-radius: 45px 41px;
+}
+
+.primeiralinha{
+    width: 100%;
+    height: 246px;
+}
+
+
+.segundalinha{
+    width: 100%;
+}
+
+.curso{
+    width: 66%;
+    text-align: center;
+    margin-top: 38px;
+    margin-left: 363px;
+    margin-bottom: 34px;
+    color: #9316a7bd;
+    font-size: xxx-large;
+}
+
+.todoscursos{
+    width: 100%;
+    height: 500px;
+
+}
+
+.ima{
+    width: 20%;
+}
+
+.ima2{
+    width: 100%;
+    border-radius: 141px 141px;
+    margin-left: 34px;
+    float: left;
+    margin-right: 36px;
+
+}
+
+table{
+    
+    width: 66%;
+    height: 55px;
+    margin-top: 10px;
+}
+
+.box1{
+    height: 50px;
+    text-align: center;
+    color: white;
+    background: #8f6fa7;
+}
+
+.box1:hover{
+    height: 50px;
+    text-align: center;
+    color: white;
+    background: #8f6fa7a8;
+}
+
+.explicação{
+    height: 50px;
+    text-align: center;
+    width: 32%;
+    background: beige;
+    padding: 6px;
+}
+
+.segundatabela{
+    float: right;
+    margin-right: 118px;
+}
+
+
+}

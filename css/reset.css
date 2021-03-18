@@ -1,0 +1,48 @@
+/ * http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   Licença: nenhuma (domínio público)
+* /
+
+html, corpo, div, extensão, miniaplicativo, objeto, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pré,
+a, abr, acrônimo, endereço, grande, citar, código,
+del, dfn, em, img, ins, kbd, q, s, samp,
+pequeno, golpe, forte, sub, sup, tt, var,
+b, u, i, centro,
+dl, dt, dd, ol, ul, li,
+conjunto de campos, formulário, rótulo, legenda,
+tabela, legenda, tbody, tfoot, thead, tr, th, td,
+artigo, à parte, tela, detalhes, incorporar, 
+figura, figcaption, rodapé, cabeçalho, hgroup, 
+menu, nav, output, ruby, section, summary,
+tempo, marca, áudio, vídeo {
+	margem: 0;
+	preenchimento: 0;
+	fronteira: 0;
+	tamanho da fonte: 100%;
+	fonte: herdar;
+	alinhamento vertical: linha de base;
+}
+/ * HTML5 display-role reset para navegadores mais antigos * /
+artigo, à parte, detalhes, legenda da figura, figura, 
+rodapé, cabeçalho, hgroup, menu, nav, seção {
+	display: bloco;
+}
+corpo {
+	altura da linha: 1;
+}
+ol, ul {
+	estilo de lista: nenhum;
+}
+blockquote, q {
+	citações: nenhum;
+}
+blockquote: antes, blockquote: depois,
+q: antes, q: depois {
+	contente: '';
+	conteúdo: nenhum;
+}
+tabela {
+	colapso da fronteira: colapso;
+	espaçamento de borda: 0;
+}
